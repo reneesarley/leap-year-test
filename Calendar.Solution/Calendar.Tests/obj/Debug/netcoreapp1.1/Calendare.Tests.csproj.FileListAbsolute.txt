@@ -1,0 +1,15 @@
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendare.Tests.deps.json
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendare.Tests.runtimeconfig.json
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendare.Tests.runtimeconfig.dev.json
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendare.Tests.dll
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendare.Tests.pdb
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.dll
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.pdb
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendare.Tests.csproj.CoreCompileInputs.cache
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendare.Tests.AssemblyInfoInputs.cache
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendare.Tests.AssemblyInfo.cs
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendare.Tests.dll
+/Users/reneesarley/Desktop/leapYear/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendare.Tests.pdb
